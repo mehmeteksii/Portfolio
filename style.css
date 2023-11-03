@@ -1,0 +1,20 @@
+h1,h2{
+    font-family:sans-serif;
+    color: white;
+}
+
+.radius{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    
+}
+
+.background-img{
+    background-image: url(./images/photo-1553095066-5014bc7b7f2d.avif);
+    background-position: 50%;
+}
+
+.color-blue{
+    color: #0C356A;
+}
